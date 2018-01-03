@@ -1,0 +1,1 @@
+This project is a wpf based application that reads an excel file and generates a file in form format that will be partially filled with data from the file and some empty fields. The code can be customized to change the looks and feel of the form.
